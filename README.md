@@ -2,7 +2,7 @@
 
 ## I'm a developer in training and music teacher
 - I'm currently developing projects from <a href="TeamTreehouse.com">Team Treehouse</a>
-- I'm currently getting it all togetehr
+- I'm currently getting it all together
 - 2021 Goals: Learn enough skills to start full stack development
 
 ### Find Me:
