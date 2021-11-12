@@ -1,24 +1,18 @@
-### Hi! I'm Danny - Welcome To [dantasyisland] [website]
+### Hi! I'm Danny. Welcome To My GitHub
 
 ## I'm a developer in training and music teacher
-- I'm currently developing projects from <a href="TeamTreehouse.com">Team Treehouse</a>
-- I'm currently getting it all together
+- I'm currently developing projects from <a href="TeamTreehouse.com">Team Treehouse</a> and burning the candle at both ends over at [freeCodeCamp]
+
 - 2021 Goals: Learn enough skills to start full stack development
 
-### Find Me:
-* Linked In
-* Website
-* Should I twitter?
-
-[<img align="left" alt="dantelope.com" width="22px" src="http://dantelope.com/svg/something.svg"/>][website]
-
-
-
+- Here's my [portfolio](https://dantelope.com) at the moment. Nothing snazzy other than my first project for [Team Treehouse]
 <br />
 <br />
 
 
 <!-- References -->
 [website]: https://dantelope.com
-[dantasyisland]: https://dantasyisland.com
+[Team Treehouse]: https://teamtreehouse.com
+[freeCodeCamp]: https://freecodecamp.org
+
 
