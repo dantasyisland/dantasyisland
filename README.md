@@ -5,7 +5,7 @@
 <br />
 <br />
 
-as
+
 <!-- References -->
 [website]: https://dantelope.com
 [Team Treehouse]: https://teamtreehouse.com
